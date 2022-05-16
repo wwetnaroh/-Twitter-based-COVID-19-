@@ -13,3 +13,7 @@ Sometimes we want to track the history of the most popular hashtags records on T
 According to the pulled tweets from Twitter API, semantic analysis is carried out to classify them into three classes, including positive, negative, and neutral. The number of each class is represented in the pie chart.
 
 ## Demo video
+
+
+https://user-images.githubusercontent.com/41310207/168668175-4ca4223b-acb1-487c-bd3f-49925b7ff70e.mp4
+
